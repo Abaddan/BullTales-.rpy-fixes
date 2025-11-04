@@ -160,7 +160,7 @@ label park_date:
             lauren "You know, I actually have this old costume from last Halloween..."
             lauren "It's a witch outfit... complete with pointed hat and everything."
             
-            if lauren_love >= 25:  # best outcome
+            if lauren_love >= 15:  # best outcome
                 lauren "Since you appreciate the spooky theme..."
                 lauren "What do witches create with their cauldrons and spells?"
                 jump outfit_12_puzzle
