@@ -12,6 +12,8 @@
   <br />
   Some dialogue has been changed and added to make these scenes natural.<br />
 <br />
+ **Episode 4** has been changed to make outfits availabe with highest love score / required erotic score for Ersa & Gemmy.<br />
+ <br />
 **Where to put the files**<br />
 Navigate to the game files<br />
 BullTales -> game -> episodes<br />
