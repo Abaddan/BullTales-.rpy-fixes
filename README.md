@@ -18,7 +18,7 @@
   <br />
   Some dialogue has been changed and added to make these scenes natural.
   <br />
-  *Update 11/08/2025:* Adjusted episode if you got the Nancy scene in Episode 1 it skips Matthews stealing Nancy scene.
+  *Update 11/08/2025:* Adjusted episode if you got the Nancy scene in Episode 1 it skips Matthews + Nancy scene after Emma's scene.
 <br />
 <br />
  **Episode 4** has been changed to make outfits availabe with highest love score / required erotic score for Ersa & Gemmy.<br />
