@@ -1662,7 +1662,11 @@ label study_date_good:
     emma "And I'll stop the bullying. I'll tell people [girl_friend] was lying."
     emma "It's the least I can do."
     emma "After what you've shown me... what you've given me..."
-    jump emma_aftermath
+    
+    if nancy_love >= 20:
+        jump doctor_flashback_scene
+    else:
+        jump emma_aftermath
 
 label study_date_bad:
     emma "This was a mistake."
@@ -1688,7 +1692,10 @@ label study_date_bad:
     "But I notice her hands shaking as she packs up."
     "She's not as sure as she pretends to be."
     
-    jump emma_aftermath
+    if nancy_love >= 20:
+        jump doctor_flashback_scene
+    else:
+        jump emma_aftermath
 
 label study_date_worst:
     $ update_character_state("emma", CharState.ANGRY)
@@ -1723,7 +1730,10 @@ label study_date_worst:
     "I know by tomorrow, that video will be everywhere."
     "My reputation will be destroyed completely."
     
-    jump emma_aftermath
+    if nancy_love >= 20:
+        jump doctor_flashback_scene
+    else:
+        jump emma_aftermath
 
 label emma_aftermath:
     scene college_afternoon
@@ -1886,6 +1896,8 @@ label emma_aftermath:
 label doctor_flashback_scene:
     
     scene black
+    "The incredible sex with Emma reminded me of someone."
+    "The sex with her was unbelieveable!"
     $ update_character_state("mc", CharState.NORMAL)
     play music "ES_Moonlight Mystery - Alexandra Woodward.mp3" volume 0.1
     with fade
