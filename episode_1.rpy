@@ -700,8 +700,16 @@ label end_episode:
     "That was it. I wasn’t only determined to change my life around, to get back at everyone who hurt me before, but I was actually working on it."
     mc "Yeah. Let’s do it."
 
-    if nancy_outcome_prologue == "best" or nancy_outcome_prologue == "good":
-        jump nancy_returns_knock
+    if nancy_key_question_passed:
+        if nancy_love >=18:
+            jump nancy_returns_knock
+    else:
+            label end_episode_1:
+    # Grant episode 1 completion achievement  
+    # call grant_episode_achievement(1)
+    # $ check_all_achievements()
+
+    jump episode_2
 
     # Grant episode 1 completion achievement
     # call grant_episode_achievement(1)
