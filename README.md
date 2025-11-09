@@ -14,6 +14,8 @@
 <br />
  **Episode 4** has been changed to make outfits availabe with highest love score / required erotic score for Ersa & Gemmy.<br />
  <br />
+ **Episode 5** has been changed to make outfits available and obtainable. Some Nancy values have been adjusted based off choices. This is not perfect, but it's functional and allows Nancy scenes to be possible.<br />
+ <br />
 **Where to put the files**<br />
 Navigate to the game files<br />
 BullTales -> game -> episodes<br />
