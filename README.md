@@ -5,7 +5,7 @@
  <br />
  **Episode 1** has been changed to allow the nancy scene to play and make outfits obtainable with highest love score.
  <br />
- Update 11/08/2025: Adjusted to play Nancy scene if key question and good/best love score is obtained. Previously it would play regardless of your love score if you passed the key question.
+ *Update 11/08/2025:* Adjusted to play Nancy scene if key question and good/best love score is obtained. Previously it would play regardless of your love score if you passed the key question.
  <br />
  <br />
  **Episode 2** has been changed to make outfits obtainable with highest love score.
@@ -18,7 +18,7 @@
   <br />
   Some dialogue has been changed and added to make these scenes natural.
   <br />
-  Update 11/08/2025: Adjusted episode if you got the Nancy scene in Episode 1 it skips Matthews stealing Nancy scene.
+  *Update 11/08/2025:* Adjusted episode if you got the Nancy scene in Episode 1 it skips Matthews stealing Nancy scene.
 <br />
 <br />
  **Episode 4** has been changed to make outfits availabe with highest love score / required erotic score for Ersa & Gemmy.<br />
