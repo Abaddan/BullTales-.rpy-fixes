@@ -23,7 +23,7 @@
 <br />
  **Episode 4** has been changed to make outfits availabe with highest love score / required erotic score for Ersa & Gemmy.<br />
  <br />
- **Episode 5** has been changed to make outfits available and obtainable. Fixed Nancy's choice scene not appearing. Some Jane(ex GF) values have been adjusted based off choices for better balancing (idk if this really does much tbh main concern was outfits and Nancy's missing scene.) <br />
+ **Episode 5** has been changed to make outfits available and obtainable. Fixed Nancy's choice scene not appearing. Some Jane(ex GF) values have been adjusted based off choices for better balancing (idk if this really does much tbh main concern was outfits and Nancy's missing scene). <br />
  <br />
 **Where to put the files**<br />
 Navigate to the game files<br />
